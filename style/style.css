@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(135, 206, 235, 0.7);
+}
+h1{
+    position:absolute;
+    top: 20px;
+    left: 37%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+h2,footer{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+}
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    background-color: rgba(0, 59, 92, 1);
+    border-radius: 10px;
+    padding: 5px;
+}
+
