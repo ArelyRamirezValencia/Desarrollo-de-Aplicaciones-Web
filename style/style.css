@@ -32,4 +32,7 @@ a{
     border-radius: 10px;
     padding: 5px;
 }
-
+iframe{
+	width: 250px;
+    height: 250px;
+}
